@@ -100,8 +100,9 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/icon-black.png" alt="Framer Motion" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/icon-white.png" alt="Framer Motion" width="45" height="45"/>
+  <img src="https://assets.codepen.io/16327/gsap-logo.svg" alt="GSAP" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/framer/motion/main/.github/icon-white.png" alt="Framer Motion" width="45" height="45"/>
+
 </p>
 
 ### **Backend Development**
