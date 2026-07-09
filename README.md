@@ -233,6 +233,31 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ---
 
+## 📁 Complete Project Portfolio
+
+| # | Client | What I Built | Stack | Period |
+|---|--------|--------------|-------|--------|
+| 01 | Daily Reports Analytics Engine | Built end-to-end, solo, from architecture to deployment: a Slack-integrated analytics engine that ingests daily reports through the Slack API and webhooks, processes them on serverless Cloudflare Functions, and persists data across a hybrid storage layer (D1 + MongoDB + KV) for fast reads and flexible querying. Includes an admin dashboard on top. | `Fastify` `Slack API` `Cloudflare Functions` `Cloudflare D1` `MongoDB` `Cloudflare KV` | May 2026 |
+| 02 | Employee Tracking System | Cross-platform desktop app built from scratch and shipped to production: Electron.js front end talking to a NestJS backend, deployed on a self-managed K3s Kubernetes cluster on AWS with a full GitHub Actions CI/CD pipeline handling build, test, and rollout. | `Electron.js` `NestJS` `K3s (Kubernetes)` `AWS` `GitHub Actions` | 2026 |
+| 03 | [Legacy Life Counseling](#) | Premium portfolio-style site for a Canada-based client, built and deployed solo. Sanity CMS wired in so the client can update content themselves, transactional email via Resend, clean SEO-friendly structure and subtle motion throughout. | `Next.js` `Sanity CMS` `Resend` | May 2026 |
+| 04 | LGXNDS | Edge API proxy built on Cloudflare Workers, integrated with Seal Subscriptions to route and manage subscription-related requests at the edge — designed, built, and deployed from scratch. | `Hono.js` `Cloudflare Workers` | March 2026 |
+| 05 | [Bornvia](#) | Scroll-driven storytelling site: hand-built GSAP ScrollTrigger animation sequences wired into Framer via custom code components, taking the design from static mockup to a fully interactive, pinned-scroll experience. | `Framer` `GSAP ScrollTrigger` | Feb 2026 |
+| 06 | TSTN | Rewards and loyalty platform built from the ground up — landing page, dashboard UI, and GSAP-driven micro-interactions layered on top of the core reward-tracking logic. | `GSAP` | Feb 2026 |
+| 07 | Flowpouch | Cloudflare Worker built and deployed to bridge ProsperStack into FlowPouch's subscription flow, improving cancellation and retention handling without touching the core app. | `Cloudflare Workers` `Hono.js` `Wrangler` | Jan–Feb 2026 |
+| 08 | WhatsApp Chat Bot | Webhook-based WhatsApp Business bot built end-to-end on the Meta Cloud API, edge-deployed on Cloudflare Workers, driving an AI pipeline that handles personal-assistant tasks and business queries in real time. | `Meta Cloud API` `Cloudflare Workers` `Hono.js` `Wrangler` | Feb 2026 |
+| 09 | [iCreate Media](#) | Agency website designed and built solo, from static design to deployed site: GSAP scroll-triggered animation, Three.js WebGL scenes for the hero, fully responsive and SEO-optimised. | `Next.js` `GSAP` `Three.js` `Tailwind` | Dec 2025–Jan 2026 |
+| 10 | [LYM Digital](#) | High-performance agency site shipped from scratch to production: GSAP scroll animation, Vercel serverless functions powering the contact form, and Next.js SEO tuning throughout. | `Next.js` `GSAP` `Framer Motion` | Dec 2025–Jan 2026 |
+| 11 | [Fertility Minds](#) | Cross-platform mobile app taken from zero to live on both the App Store and Google Play: auth, Stripe subscriptions, real-time Socket.io chat, push notifications, social posting, a custom CMS/CRM with a React admin panel, plus store-listing and release management. | `React Native` `Node.js` `MongoDB` `Socket.io` `Stripe` | Oct 2025–Feb 2026 |
+| 12 | [Al Khaleej Takaful (AKTI)](#) | Bilingual EN/AR insurance platform built solo with full RTL/LTR support, a complex state-persistent multi-step form validated with React Hook Form, and smooth motion throughout — designed, built, and deployed end-to-end. | `Vite` `React` `Tailwind` `GSAP` `i18n` | Aug–Dec 2025 |
+| 13 | [Trade Assurance](#) | Global trade platform built from scratch: secure auth, order management, multi-step product/service listing flows, real-time notifications, and admin dashboards — architected, built, and deployed solo. | `Next.js` `Express` `MongoDB` `Tailwind` | Jul 2025–Feb 2026 |
+| 14 | [Vetrinamia](#) | Real-time analytics engine shipped end-to-end: WebSocket streams feeding a live admin dashboard, Shopify marketplace integration, deployed on a load-balanced VPS behind NGINX. | `MERN` `WebSockets` `NGINX` `Shopify` | Jul–Aug 2025 |
+| 15 | [Trans WeGo](#) | Switzerland–Germany logistics platform built solo, from data model to live deployment: shipment bidding, a cost-sharing algorithm, Google Maps geo-aggregation, and real-time push plus group chat. | `Next.js` `Node.js` `MongoDB` `Socket.io` `Google Maps` | Nov 2024–Jun 2025 |
+| 16 | [Connect You](https://connectyou.global/) | Global coaching platform taken from scratch to production on a VPS: Stripe payments, real-time chat, Google Maps + Calendar integration, HubSpot sync, timezone-aware slot booking, and payout/refund workflows. | `MERN` `Next.js` `Socket.io` `Stripe` `HubSpot` | Aug 2024–Sep 2025 |
+| 17 | [Yacht Buddy](#) | Frontend build focused on advanced scroll animation and interaction design, from static comps to a fully animated live site. | `React` `GSAP` | Sep 2024 |
+| 18 | [Supertiny Marketing Agency](https://supertinymarketing.com/) | Dev agency portfolio built and deployed solo on a VPS, with GSAP animation and SEO tuning baked in from the start. | `React` `Vite` `Tailwind` `GSAP` | Sep 2024 |
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
