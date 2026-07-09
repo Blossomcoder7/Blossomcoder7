@@ -23,7 +23,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ## 🎯 Featured Projects
 
-### 💜 Fertility Minds - Fertility Wellness & Community App
+### <img src="https://cdn.shopify.com/s/files/1/0994/4979/8950/files/logo_f46c1ca1-2ea8-4f25-94e3-fd767ebe894e.png?v=1783591604" width="28" height="28" alt="Fertility Minds logo" style="vertical-align:middle;"/> Fertility Minds - Fertility Wellness & Community App
 
 > **A wellness and community app for every stage of the fertility journey — expert-reviewed content, guided meditations, mood tracking, and safe, moderated community spaces**
 
@@ -42,6 +42,30 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 - 🌍 **UK-Based, Region-Aware Pricing** with localized tax handling via App Store/Google Play billing
 
 **Tech Stack:** React Native, Expo Go, Node.js, Express.js, MongoDB, Socket.io, RevenueCat
+
+---
+
+### <img src="https://cdn.shopify.com/s/files/1/0994/4979/8950/files/Erickson_logo.png?v=1783592022" width="28" height="28" alt="ConnectYou logo" style="vertical-align:middle;"/> [ConnectYou](https://coachingservices.erickson.edu) - Educational Marketplace
+
+> **A comprehensive marketplace platform for coaching and educational services world wide**
+
+**Key Features:**
+
+- 🛒 **Advanced Cart & Checkout System** with Stripe integration and secure payment processing
+- 📅 **Intelligent Timezone Management** - Auto-matching coach availability with client preferences across global timezones
+- 💬 **Real-time Chat with Socket.IO** (read receipts, online status, typing indicators, message history)
+- ⭐ **Dynamic Review & Rating System** with verified feedback and public coach profiles
+- 👨‍💼 **Comprehensive Admin Dashboard** for payouts, refunds, dispute resolution, and content management
+- 📱 **Google Calendar Integration** with OAuth verification and automatic slot synchronization
+- 🎨 **Responsive Design** with Tailwind CSS & Material-UI for seamless mobile experience
+- 🔒 **JWT Authentication** with role-based access control and secure session management
+- 📊 **Analytics Dashboard** with booking trends, revenue tracking, and performance metrics
+- 🔔 **Real-time Notifications** for bookings, payments, and chat messages
+- 🌐 **Multi-language Support** with internationalization features
+- 💾 **Advanced Caching** for optimal performance
+- 🚀 **Deployed on AWS EC2** with custom domain management and SSL certificates
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Socket.IO, Stripe API, Google Calendar API, Redis, AWS EC2, Docker
 
 ---
 
@@ -66,7 +90,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 <div align="center">
 
-### 🖌️ Styling & Animation
+### 🖌️ UI & Styling
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
