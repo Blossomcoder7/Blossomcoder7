@@ -183,18 +183,6 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blossomcoder7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blossomcoder7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blossomcoder7&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 💼 Professional Services
@@ -251,24 +239,6 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 > *"Outstanding full-stack development! The marketplace platform exceeded all expectations with seamless real-time features and flawless AWS deployment. The automatic timezone management saved us countless hours of manual work!"*  
 > **- CEO, ConnectYou Global**
 
----
-
-## 🚀 Deployment & Hosting Expertise
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-</div>
-
-### **Deployment Solutions I Provide:**
-- 🌐 **Complete Domain Management** - Registration, DNS configuration, SSL certificates
-- 🚀 **Production-Ready Deployments** - From staging to live production environments
-- 📊 **Performance Monitoring** - Real-time monitoring and alerting systems
-- 🔄 **Automated CI/CD Pipelines** - GitHub Actions, GitLab CI
-- 
 ---
 
 ## 📫 Let's Connect!
