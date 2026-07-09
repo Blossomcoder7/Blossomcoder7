@@ -190,7 +190,6 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blossomcoder7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=blossomcoder7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
