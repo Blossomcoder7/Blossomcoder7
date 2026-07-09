@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Blossom Coder
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Next.js+Specialist;TypeScript+%26+JavaScript+Master" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Next.js+Specialist;TypeScript+%26+JavaScript" alt="Typing SVG" />
 </div>
 
 <p align="center">
