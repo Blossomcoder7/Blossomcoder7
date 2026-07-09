@@ -23,7 +23,12 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ## 🎯 Featured Projects
 
-### <img src="https://cdn.shopify.com/s/files/1/0994/4979/8950/files/logo_f46c1ca1-2ea8-4f25-94e3-fd767ebe894e.png?v=1783591604" width="28" height="28" alt="Fertility Minds logo" style="vertical-align:middle;"/> Fertility Minds - Fertility Wellness & Community App
+<table>
+<tr>
+<td width="40" align="center"><img src="https://cdn.shopify.com/s/files/1/0994/4979/8950/files/logo_f46c1ca1-2ea8-4f25-94e3-fd767ebe894e.png?v=1783591604" width="28" height="28" alt="Fertility Minds logo"/></td>
+<td><h3>Fertility Minds - Fertility Wellness & Community App</h3></td>
+</tr>
+</table>
 
 > **A wellness and community app for every stage of the fertility journey — expert-reviewed content, guided meditations, mood tracking, and safe, moderated community spaces**
 
