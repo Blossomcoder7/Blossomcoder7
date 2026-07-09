@@ -239,14 +239,17 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ## 🌟 Client Testimonials
 
+> *"From our very first conversation, it was clear that they genuinely cared about bringing our vision to life. They listened carefully, provided valuable suggestions, and created a website that is both beautiful and easy to navigate. The final product perfectly represents our practice and makes it easier for clients to connect with us. I truly appreciate their professionalism, creativity, and dedication throughout the project."*  
+> **- Founder, Legacy Life Counselling**
+
+> *"Working with this team was an outstanding experience. They understood the vision behind our fertility wellness platform and transformed it into an intuitive, secure, and beautifully designed mobile application. From expert content integration to community features and mood tracking, every detail was implemented with care and professionalism. Their communication, technical expertise, and commitment to quality exceeded our expectations. We couldn't be happier with the final product."*  
+> **- Founder, Fertility Minds**
+
+> *"Working with this team was an excellent experience. They successfully delivered a modern, responsive website with full Arabic language support while maintaining outstanding design quality and performance. Every detail, from the right-to-left (RTL) layout to the user experience, was implemented with professionalism and precision. Their communication, technical expertise, and commitment to delivering a high-quality product exceeded our expectations. We highly recommend their services."*  
+> **- Marketing Director, alkhaleej**
+
 > *"Outstanding full-stack development! The marketplace platform exceeded all expectations with seamless real-time features and flawless AWS deployment. The automatic timezone management saved us countless hours of manual work!"*  
 > **- CEO, ConnectYou Global**
-
-> *"Professional, reliable, and delivered a production-ready application with comprehensive DevOps setup. The Docker containerization and CI/CD pipeline made scaling effortless. Highly recommended for complex enterprise projects!"*  
-> **- CTO, TransWeGo Logistics**
-
-> *"Incredible attention to detail and modern development practices. The Vercel deployment was lightning-fast, and the custom domain management was handled perfectly. Will definitely work with them again!"*  
-> **- Marketing Director, SuperTiny**
 
 ---
 
@@ -271,16 +274,16 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:blossomcoder7@gmail.com">
+  <a href="mailto:blossomcoder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/blossomcoder7">
+  <a href="https://github.com/Blossomcoder7">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~your-profile">
+  <a href="https://www.upwork.com/agencies/1097825146577604608/">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="https://www.linkedin.com/in/blossomcoder7">
+  <a href="https://in.linkedin.com/company/blossom-coder">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
