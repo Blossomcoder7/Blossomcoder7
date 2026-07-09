@@ -90,8 +90,10 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ## 💻 Tech Stack & Expertise
 
+<div align="center">
+
 ### 🎨 Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -101,6 +103,8 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://img.shields.io/badge/-Astro.js-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js"/>
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
+
+</div>
 
 ### 🖌️ Styling & Animation
 <p align="left">
