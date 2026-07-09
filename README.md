@@ -51,7 +51,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 **Key Features:**
 - 🏢 **Multi-user Marketplace** (companies, individuals, transporters) with advanced user verification
 - 💰 **Real-time Quote System** with AI-powered automated matching and bidding
-- 🚀 **Multilingual platform** supporting French, Enlish, German with super fast language switching experience.
+- 🚀 **Multilingual platform** supporting French, English, German with super fast language switching experience.
 - 🗺️ **Advanced Google Maps Integration** with geo-location queries, route optimization, and distance calculations
 - 💬 **Sophisticated Chat System** with group chat, file sharing, and voice message support
 - 📊 **Smart Cost Share Algorithm** for optimized shipping rates and profit distribution
@@ -64,7 +64,6 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 - 💳 **Multiple Payment Gateways** supporting international transactions
 - 📊 **Real-time Dashboard** with live shipment updates and status tracking
 - 🚀 **Deployed on VPS** and automated CI/CD pipeline
-
 
 **Tech Stack:** MERN Stack, Socket.IO, Google Maps API, CK Editor, Redis, Docker, Nginx, VPS Hosting, SSL/TLS
 
@@ -91,87 +90,99 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ## 💻 Tech Stack & Expertise
 
-### **Frontend Development**
+### 🎨 Frontend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/>
-  <img src="https://assets.codepen.io/16327/gsap-logo.svg" alt="GSAP" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/framer/motion/main/.github/icon-white.png" alt="Framer Motion" width="45" height="45"/>
-
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-React.js-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-Astro.js-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
-### **Backend Development**
+### 🖌️ Styling & Animation
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/-SCSS/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS/SASS"/>
+  <img src="https://img.shields.io/badge/-Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn"/>
 </p>
 
-### **Database & Cloud**
+### 🎬 Animation
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/-Lenis-1E1E1E?style=for-the-badge&logo=react&logoColor=white" alt="Lenis"/>
+  <img src="https://img.shields.io/badge/-Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" alt="Lottie"/>
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/-Anime.js-EC2227?style=for-the-badge&logo=animejs&logoColor=white" alt="Anime.js"/>
 </p>
 
-### **DevOps & Deployment**
+### ⚙️ Backend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
+  <img src="https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/-Serverless_Functions-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
 </p>
 
-### **Mobile Development**
+### 🗄️ Database & Cloud
 <p align="left">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-### **Additional Skills**
+### 🚀 DevOps & Deployment
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="45" height="45"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/-Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy"/>
+  <img src="https://img.shields.io/badge/-HAProxy-696969?style=for-the-badge&logoColor=white" alt="HAProxy"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/-Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/-VPS-4A4A4A?style=for-the-badge&logo=linux&logoColor=white" alt="VPS"/>
 </p>
 
-### **Other Technologies**
+### 📱 Mobile Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="45" height="45"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="NativeScript" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-React_Native-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
+  <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+</p>
+
+### 🧰 Additional Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  <img src="https://img.shields.io/badge/-Supabase_Storage-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Storage"/>
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/-reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="reCAPTCHA"/>
+  <img src="https://img.shields.io/badge/-Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/-Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/-Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"/>
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
@@ -180,7 +191,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blossomcoder7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blossomcoder7&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=blossomcoder7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -193,7 +204,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 - ✅ **Real-time Applications** (Socket.IO, WebRTC, Chat Systems)
 - ✅ **E-commerce & Marketplace Development** with payment integration
 - ✅ **Payment Gateway Integration** (Stripe, PayPal, Razorpay)
-- ✅ **API Development & Third-party Integration** (REST, GraphQL)
+- ✅ **API Development & Third-party Integration** (REST, GraphQL, gRPC, Socket)
 - ✅ **Database Design & Optimization** (SQL & NoSQL)
 - ✅ **Mobile App Development** (React Native)
 - ✅ **Cloud Deployment & DevOps** (AWS, VPS, Docker, Kubernetes)
@@ -206,7 +217,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 - 🚀 **AWS Cloud Services** (EC2, S3, RDS, Lambda, CloudFront)
 - 🐳 **Docker Containerization** with multi-stage builds
 - 🌐 **VPS Management** (Ubuntu)
-- 📦 **Vercel & Netlify** 
+- 📦 **Vercel & Netlify**
 - 🔧 **Nginx & Apache** web server configuration
 - 📊 **Monitoring & Logging** (PM2, CloudWatch)
 - 🔐 **SSL Certificate Management** and security hardening
@@ -227,16 +238,16 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ## 🌟 Client Testimonials
 
-> *"From our very first conversation, it was clear that they genuinely cared about bringing our vision to life. They listened carefully, provided valuable suggestions, and created a website that is both beautiful and easy to navigate. The final product perfectly represents our practice and makes it easier for clients to connect with us. I truly appreciate their professionalism, creativity, and dedication throughout the project."*  
+> *"From our very first conversation, it was clear that they genuinely cared about bringing our vision to life. They listened carefully, provided valuable suggestions, and created a website that is both beautiful and easy to navigate. The final product perfectly represents our practice and makes it easier for clients to connect with us. I truly appreciate their professionalism, creativity, and dedication throughout the project."*
 > **- Founder, Legacy Life Counselling**
 
-> *"Working with this team was an outstanding experience. They understood the vision behind our fertility wellness platform and transformed it into an intuitive, secure, and beautifully designed mobile application. From expert content integration to community features and mood tracking, every detail was implemented with care and professionalism. Their communication, technical expertise, and commitment to quality exceeded our expectations. We couldn't be happier with the final product."*  
+> *"Working with this team was an outstanding experience. They understood the vision behind our fertility wellness platform and transformed it into an intuitive, secure, and beautifully designed mobile application. From expert content integration to community features and mood tracking, every detail was implemented with care and professionalism. Their communication, technical expertise, and commitment to quality exceeded our expectations. We couldn't be happier with the final product."*
 > **- Founder, Fertility Minds**
 
-> *"Working with this team was an excellent experience. They successfully delivered a modern, responsive website with full Arabic language support while maintaining outstanding design quality and performance. Every detail, from the right-to-left (RTL) layout to the user experience, was implemented with professionalism and precision. Their communication, technical expertise, and commitment to delivering a high-quality product exceeded our expectations. We highly recommend their services."*  
+> *"Working with this team was an excellent experience. They successfully delivered a modern, responsive website with full Arabic language support while maintaining outstanding design quality and performance. Every detail, from the right-to-left (RTL) layout to the user experience, was implemented with professionalism and precision. Their communication, technical expertise, and commitment to delivering a high-quality product exceeded our expectations. We highly recommend their services."*
 > **- Marketing Director, alkhaleej**
 
-> *"Outstanding full-stack development! The marketplace platform exceeded all expectations with seamless real-time features and flawless AWS deployment. The automatic timezone management saved us countless hours of manual work!"*  
+> *"Outstanding full-stack development! The marketplace platform exceeded all expectations with seamless real-time features and flawless AWS deployment. The automatic timezone management saved us countless hours of manual work!"*
 > **- CEO, ConnectYou Global**
 
 ---
