@@ -24,9 +24,11 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 ## 🎯 Featured Projects
 
 ### 🌟 [ConnectYou](https://connectyou.global/) - Educational Marketplace
+
 > **A comprehensive marketplace platform for coaching and educational services world wide**
 
 **Key Features:**
+
 - 🛒 **Advanced Cart & Checkout System** with Stripe integration and secure payment processing
 - 📅 **Intelligent Timezone Management** - Auto-matching coach availability with client preferences across global timezones
 - 💬 **Real-time Chat with Socket.IO** (read receipts, online status, typing indicators, message history)
@@ -45,10 +47,12 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ---
 
-### 🚛 TransWeGo - Shipping Marketplace *(Launching Soon)*
+### 🚛 TransWeGo - Shipping Marketplace _(Launching Soon)_
+
 > **Revolutionary shipping platform connecting shippers with transporters**
 
 **Key Features:**
+
 - 🏢 **Multi-user Marketplace** (companies, individuals, transporters) with advanced user verification
 - 💰 **Real-time Quote System** with AI-powered automated matching and bidding
 - 🚀 **Multilingual platform** supporting French, English, German with super fast language switching experience.
@@ -70,9 +74,11 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 ---
 
 ### 🎨 [SuperTiny Marketing](https://supertinymarketing.com/) - Agency Portfolio
+
 > **Modern SPA showcasing marketing agency services with stunning visual appeal**
 
 **Key Features:**
+
 - ✨ **Smooth Animations** with Framer Motion and custom CSS transitions
 - 📱 **Fully Responsive Design** optimized for all devices and screen sizes
 - ⚡ **Lightning-fast Performance** with Vite bundling and lazy loading
@@ -93,6 +99,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 <div align="center">
 
 ### 🎨 Frontend Development
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -106,16 +113,24 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 </div>
 
+<div align="center">
+
 ### 🖌️ Styling & Animation
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
   <img src="https://img.shields.io/badge/-SCSS/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS/SASS"/>
   <img src="https://img.shields.io/badge/-Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn"/>
 </p>
 
+</div>
+
+<div align="center">
+
 ### 🎬 Animation
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
   <img src="https://img.shields.io/badge/-Lenis-1E1E1E?style=for-the-badge&logo=react&logoColor=white" alt="Lenis"/>
@@ -124,8 +139,13 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://img.shields.io/badge/-Anime.js-EC2227?style=for-the-badge&logo=animejs&logoColor=white" alt="Anime.js"/>
 </p>
 
+</div>
+
+<div align="center">
+
 ### ⚙️ Backend Development
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
@@ -135,8 +155,13 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://img.shields.io/badge/-Serverless_Functions-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
 </p>
 
+</div>
+
+<div align="center">
+
 ### 🗄️ Database & Cloud
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -145,8 +170,13 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
+</div>
+
+<div align="center">
+
 ### 🚀 DevOps & Deployment
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
@@ -164,14 +194,24 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://img.shields.io/badge/-VPS-4A4A4A?style=for-the-badge&logo=linux&logoColor=white" alt="VPS"/>
 </p>
 
+</div>
+
+<div align="center">
+
 ### 📱 Mobile Development
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/-React_Native-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
   <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
 
+</div>
+
+<div align="center">
+
 ### 🧰 Additional Skills
-<p align="left">
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
   <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
   <img src="https://img.shields.io/badge/-Supabase_Storage-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Storage"/>
@@ -189,6 +229,8 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -202,6 +244,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 ## 💼 Professional Services
 
 ### **What I Offer:**
+
 - ✅ **Full Stack Web Development** (MERN/MEAN Stack)
 - ✅ **Next.js & React Applications** with server-side rendering
 - ✅ **Real-time Applications** (Socket.IO, WebRTC, Chat Systems)
@@ -217,6 +260,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 - ✅ **Custom CRM & ERP Solutions** for business automation
 
 ### **DevOps & Deployment Expertise:**
+
 - 🚀 **AWS Cloud Services** (EC2, S3, RDS, Lambda, CloudFront)
 - 🐳 **Docker Containerization** with multi-stage builds
 - 🌐 **VPS Management** (Ubuntu)
@@ -226,6 +270,7 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 - 🔐 **SSL Certificate Management** and security hardening
 
 ### **Why Choose Me:**
+
 - 🎯 **10+ years** of development experience across multiple domains
 - 🚀 **Proven track record** with 50+ successful project deployments
 - 💡 **End-to-end solutions** from concept to production deployment
@@ -241,16 +286,16 @@ I'm a **Certified Full Stack Developer** with expertise in modern web technologi
 
 ## 🌟 Client Testimonials
 
-> *"From our very first conversation, it was clear that they genuinely cared about bringing our vision to life. They listened carefully, provided valuable suggestions, and created a website that is both beautiful and easy to navigate. The final product perfectly represents our practice and makes it easier for clients to connect with us. I truly appreciate their professionalism, creativity, and dedication throughout the project."*
+> _"From our very first conversation, it was clear that they genuinely cared about bringing our vision to life. They listened carefully, provided valuable suggestions, and created a website that is both beautiful and easy to navigate. The final product perfectly represents our practice and makes it easier for clients to connect with us. I truly appreciate their professionalism, creativity, and dedication throughout the project."_
 > **- Founder, Legacy Life Counselling**
 
-> *"Working with this team was an outstanding experience. They understood the vision behind our fertility wellness platform and transformed it into an intuitive, secure, and beautifully designed mobile application. From expert content integration to community features and mood tracking, every detail was implemented with care and professionalism. Their communication, technical expertise, and commitment to quality exceeded our expectations. We couldn't be happier with the final product."*
+> _"Working with this team was an outstanding experience. They understood the vision behind our fertility wellness platform and transformed it into an intuitive, secure, and beautifully designed mobile application. From expert content integration to community features and mood tracking, every detail was implemented with care and professionalism. Their communication, technical expertise, and commitment to quality exceeded our expectations. We couldn't be happier with the final product."_
 > **- Founder, Fertility Minds**
 
-> *"Working with this team was an excellent experience. They successfully delivered a modern, responsive website with full Arabic language support while maintaining outstanding design quality and performance. Every detail, from the right-to-left (RTL) layout to the user experience, was implemented with professionalism and precision. Their communication, technical expertise, and commitment to delivering a high-quality product exceeded our expectations. We highly recommend their services."*
+> _"Working with this team was an excellent experience. They successfully delivered a modern, responsive website with full Arabic language support while maintaining outstanding design quality and performance. Every detail, from the right-to-left (RTL) layout to the user experience, was implemented with professionalism and precision. Their communication, technical expertise, and commitment to delivering a high-quality product exceeded our expectations. We highly recommend their services."_
 > **- Marketing Director, alkhaleej**
 
-> *"Outstanding full-stack development! The marketplace platform exceeded all expectations with seamless real-time features and flawless AWS deployment. The automatic timezone management saved us countless hours of manual work!"*
+> _"Outstanding full-stack development! The marketplace platform exceeded all expectations with seamless real-time features and flawless AWS deployment. The automatic timezone management saved us countless hours of manual work!"_
 > **- CEO, ConnectYou Global**
 
 ---
